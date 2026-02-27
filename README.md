@@ -6,7 +6,7 @@ I’m especially interested in **AI-powered tools, automation**, and understandi
 
 ---
 
-### 🌱 Current Focus
+## 🌱 Current Focus
 - Strengthening **JavaScript fundamentals**
 - Learning **React** through real projects
 - Backend development with **Python (FastAPI / Flask)**
@@ -15,7 +15,38 @@ I’m especially interested in **AI-powered tools, automation**, and understandi
 
 ---
 
-### 🎯 Future Learning Goals
+## ✅ Skills I’m Learning (Updating as I grow)
+**Frontend**
+- React (components, props/state, hooks — learning)
+- TypeScript basics (types, interfaces, fixing type errors — learning)
+- HTML, CSS (responsive UI — learning)
+
+**Backend**
+- Python fundamentals
+- FastAPI / Flask (learning)
+
+**Other**
+- Git & GitHub (commits, branches, pull requests — learning)
+- Debugging and reading code from real projects
+
+---
+
+## 🧩 Portfolio / Projects
+### WhimsyForecast (React + TypeScript)
+A weather forecast web app I built while learning React + TypeScript.  
+- Live Demo: https://whimsyforecast.netlify.app/
+
+**What I practiced**
+- Working with React components and UI
+- Understanding TypeScript errors and fixing them
+- Styling with CSS
+- Debugging and improving code step-by-step
+
+*(I’m continuing to improve this project as I learn more.)*
+
+---
+
+## 🎯 Future Learning Goals
 - **Artificial Intelligence & Machine Learning**
 - **Data Science fundamentals**
 - **Deep Learning concepts**
@@ -25,30 +56,14 @@ I’m especially interested in **AI-powered tools, automation**, and understandi
 
 ---
 
-### 🛠️ Tools & Technologies
-- **Frontend:** HTML, CSS, JavaScript, React (learning)
+## 🛠️ Tools & Technologies
+- **Frontend:** HTML, CSS, JavaScript, React (learning), TypeScript (learning)
 - **Backend:** Python (FastAPI, Flask)
 - **Database:** MongoDB
 - **Tools:** Git & GitHub, Linux basics, Agile concepts
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 - **Email:** mohsin.professional.job@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/mohsinprofessional
-
-
-<!--
-**mohsinprof/mohsinprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
