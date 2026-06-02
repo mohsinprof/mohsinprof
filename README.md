@@ -51,5 +51,5 @@ Database: MongoDB
 Tools: Git & GitHub, Linux basics, Agile fundamentals
 ## Contact
 - Email: [mohsin.professional.job@gmail.com](mailto:mohsin.professional.job@gmail.com)
-- GitHub: https://github.com/mohsinprof
-- LinkedIn: https://linkedin.com/in/mohsinprofessional
+- GitHub: [https://github.com/mohsinprof](https://github.com/mohsinprof)
+- LinkedIn: [https://linkedin.com/in/mohsinprofessional](https://linkedin.com/in/mohsinprofessional)
