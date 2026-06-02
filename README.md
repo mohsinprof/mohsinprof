@@ -49,6 +49,7 @@ Frontend: HTML, CSS, JavaScript, React (learning), TypeScript (learning)
 Backend: Python (FastAPI, Flask)
 Database: MongoDB
 Tools: Git & GitHub, Linux basics, Agile fundamentals
-Contact
-Email: mohsin.professional.job@gmail.com
-LinkedIn: https://linkedin.com/in/mohsinprofessional
+## Contact
+- Email: [mohsin.professional.job@gmail.com](mailto:mohsin.professional.job@gmail.com)
+- GitHub: https://github.com/mohsinprof
+- LinkedIn: https://linkedin.com/in/mohsinprofessional
