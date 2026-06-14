@@ -53,5 +53,5 @@ A weather forecast web application built while learning React and TypeScript.
 - **Tools:** Git & GitHub 🔀, Linux basics 🐧, Agile fundamentals 📌  
 
 ## Contact 📩
-- **Email:** mohsin.professional.job@gmail.com ✉️  
-- **LinkedIn:** https://linkedin.com/in/mohsinprofessional 🔗
+- **Email:** mohsindev200@gmail.com ✉️  
+- **LinkedIn:** https://linkedin.com/in/mohsindev200 🔗
