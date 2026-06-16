@@ -19,7 +19,6 @@ I’m particularly interested in how modern AI technologies—such as **OpenAI**
 
 ### Backend 🧪
 - **Python fundamentals** 🐍  
-- **FastAPI / Flask** ⚡  
 
 ### Other 🛠️
 - **Git & GitHub** (commits, branching, pull requests) 🔧  
@@ -48,7 +47,7 @@ A weather forecast web application built while learning React and TypeScript.
 
 ## Tools & Technologies 🧰
 - **Frontend:** HTML, CSS, JavaScript, React (learning) ⚛️, TypeScript (learning) 🧩  
-- **Backend:** Python (FastAPI, Flask) 🐍  
+- **Backend:** Node.js Express.js
 - **Database:** MongoDB 🍃  
 - **Tools:** Git & GitHub 🔀, Linux basics 🐧, Agile fundamentals 📌  
 
