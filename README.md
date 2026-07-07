@@ -109,15 +109,13 @@
       <h3>🌦️ WhimsyForecast <sub>— React + TypeScript</sub></h3>
       <p><i>A weather forecast web application built while learning React and TypeScript.</i></p>
       <p>
-        <a href="https://whimsyforecast.netlify.app/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-WhimsyForecast-00F0FF?style=for-the-badge&logo=netlify&logoColor=0D1117" />
+        <a href="https://whimsyforecast.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-Interface-00F0FF?style=for-the-badge&logo=netlify&logoColor=0D1117" />
         </a>
         &nbsp;
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=black" />
+        <a href="https://github.com/mohsinprof/whimsyforecast" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Repository-Source_Code-BD34FE?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
       <b>What I practiced ✅</b><br/><br/>
       ⚛️ Component-based UI development in React<br/>
