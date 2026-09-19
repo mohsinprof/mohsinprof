@@ -167,7 +167,7 @@
 
 <br/>
 
-<h3>「 GitHub Stats 」</h3>
+<!-- <h3>「 GitHub Stats 」</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinprof&bg_color=0d1117&color=00F0FF&line=BD34FE&point=FFC107&area=true&hide_border=true" width="90%" />
@@ -181,7 +181,7 @@
     <circle cx="250" cy="4" r="2.5" fill="#00F0FF"/>
     <line x1="300" y1="4" x2="500" y2="4" stroke="#BD34FE" stroke-width="1" opacity="0.3"/>
   </svg>
-</div>
+</div> -->
 
 <h3>「 Contact 」</h3>
 
